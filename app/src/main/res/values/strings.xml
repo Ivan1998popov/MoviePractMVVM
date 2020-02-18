@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MovieMVVM</string>
+    <string name="connection_problem">Connection Problem!!!</string>
+</resources>
